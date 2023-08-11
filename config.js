@@ -18,8 +18,6 @@ define([''], function () {
 
   config.armorMode = true; //true
 
-  config.domainLock = ''; //'armorgames.com'
-
   config.showAdventaleLogo = true;
   config.adventaleWebsite = 'https://adventale.net';
   return config;
